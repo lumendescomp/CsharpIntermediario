@@ -1,0 +1,13 @@
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\obj\Debug\netcoreapp3.1\EstudoGenerics.csproj.AssemblyReference.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\obj\Debug\netcoreapp3.1\EstudoGenerics.AssemblyInfoInputs.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\obj\Debug\netcoreapp3.1\EstudoGenerics.AssemblyInfo.cs
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\obj\Debug\netcoreapp3.1\EstudoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\bin\Debug\netcoreapp3.1\EstudoGenerics.exe
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\bin\Debug\netcoreapp3.1\EstudoGenerics.deps.json
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\bin\Debug\netcoreapp3.1\EstudoGenerics.runtimeconfig.json
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\bin\Debug\netcoreapp3.1\EstudoGenerics.runtimeconfig.dev.json
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\bin\Debug\netcoreapp3.1\EstudoGenerics.dll
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\bin\Debug\netcoreapp3.1\EstudoGenerics.pdb
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\obj\Debug\netcoreapp3.1\EstudoGenerics.dll
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\obj\Debug\netcoreapp3.1\EstudoGenerics.pdb
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\EstudoGenerics\obj\Debug\netcoreapp3.1\EstudoGenerics.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\bin\Debug\AgendaADONET.exe.config
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\bin\Debug\AgendaADONET.exe
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\bin\Debug\AgendaADONET.pdb
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\obj\Debug\AgendaADONET.csproj.AssemblyReference.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\obj\Debug\AgendaADONET.frmAgenda.resources
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\obj\Debug\AgendaADONET.frmIncluirAlterarContato.resources
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\obj\Debug\AgendaADONET.Properties.Resources.resources
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\obj\Debug\AgendaADONET.csproj.GenerateResource.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\obj\Debug\AgendaADONET.csproj.CoreCompileInputs.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\obj\Debug\AgendaADONET.exe
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasico\AgendaADONET\obj\Debug\AgendaADONET.pdb
